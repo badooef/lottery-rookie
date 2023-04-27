@@ -1,0 +1,15 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Lottery\r\n\r\n抽奖系统
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 951eef391b8e5f5e415b0ee14aa00a3715e7aeaa)
++++ b/README.md	(date 1682589735265)
+@@ -1,3 +1,0 @@
+-# Lottery
+-
+-抽奖系统
+\ No newline at end of file
